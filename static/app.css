@@ -1,0 +1,26 @@
+:root{
+
+}
+
+html,body{
+  margin:0;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin:0;
+}
+
+#main-navigation{
+  background-color: aqua;
+  color:brown;
+  display: flex;
+  flex-direction: row;  
+  align-items: center;
+  justify-content: space-between;
+  padding:0.6rem 1.5rem
+}
+
+
+.container{
+  padding:1.2rem 1.6rem;
+}
